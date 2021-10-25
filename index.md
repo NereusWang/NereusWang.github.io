@@ -20,38 +20,34 @@ Phone: (+86) 19117166606
     Advisor: Hen. Yang &emsp;
 
 + Sep.2016 - Jul.2020 &emsp; Xi’an Technological University &emsp; <br/>
-    School of Electronic Information Engineering &emsp; Xi’an &emsp; P.R. China <br/>
-    B.E 
+    School of Electronic Information Engineering &emsp; Xi’an &emsp; P.R. China &emsp; B.E 
 
 ### Academic Practice
 + Nov.2020 - Mar.2021 &emsp; University of Pennsylvania &emsp; <br/>
     Department of Electronics and Systems Engineering &emsp; PA &emsp; USA <br/>
+    
+## Award-Winning Practice
 
+### Master Stage
 
-```markdown
-Syntax highlighted code block
++ 2021 The 7th 3S Cup National IoT Technology and Application Competition - National Second Prize
++ 2021 TCL National Science and Technology Innovation Competition - Third Winner in Contest
++ 2021 The 11th MathorCup Mathematics Modeling Challenge Competition - National Second Prize
++ Merit Student - Chinese Academy of Sciences (2020)
++ 2020 The 10th APMCM Asia Pacific mathematical modeling contest - National Second Prize
++ 2020 The National College English Translation Contest - Provincial First Prize
++ 2020 The fifth "Silk Road Cup" national Sudoku competition - The Best Outstanding Award
++ 2020 The military industry knowledge competition of China Association for peaceful uses of military industry - National First Prize
 
-# Title
-## Header 2
-### Header 3
+### Undergraduate Stage
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NereusWang/NereusWang.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
++ Outstanding Graduates (2020)
++ Excellent Graduation Thesis (2020)
++ 2019 Excellent Camper in Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences
++ 2019 The 12th "Authentication Cup" Mathematical Modeling Network Challenge - National First Prize
++ 2018 "Zhong-Qing Cup" National Undergraduate Mathematical Modeling Competition - National Third Prize
++ 2018 "Higher Education Society Cup" national college students mathematical modeling competition - Provincial Second Prize
++ 2018 The 7th China Mathematical Modeling international competition - Honorable Mention
++ Merit Student - Xi’an Technological University (2017)
++ 2017 "Higher Education Society Cup" national college students mathematical modeling competition - Provincial First Prize
++ 2016 "Philosophy Cup" Debate Competition - The Best Debater Team

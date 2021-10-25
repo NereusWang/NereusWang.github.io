@@ -1,13 +1,9 @@
 # **Fang Wang**
-Shanghai Institute of Microsystem and Information Technology
-
-University of Chinese Academy of Sciences
-
-Electronic and Information Engineering
-
-E-mail: wangfang20@mails.ucas.ac.cn
-
-Phone: (+86) 19117166606
+Shanghai Institute of Microsystem and Information Technology <br/>
+University of Chinese Academy of Sciences <br/>
+Electronic and Information Engineering <br/>
+E-mail: wangfang20@mails.ucas.ac.cn <br/>
+Phone: (+86) 19117166606 <br/>
 
 ---
 

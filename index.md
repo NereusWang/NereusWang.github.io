@@ -67,8 +67,8 @@ Phone: (+86) 19117166606 <br/>
 ## **Academic experience (Details)**
 
 + Nov.2020 - Mar.2021 &emsp; University of Pennsylvania &emsp; <br/>
-    Department of Electronics and Systems Engineering &emsp; PA &emsp; USA <br/>
+    Department of Electronics and Systems Engineering &emsp; <br/>
+    PA &emsp; USA <br/>
     
     In 2020, I applied to participate in the artificial intelligence chip and brain computer interface project of Professor Jan Van Der Spiegel, School of Engineering and Applied Sciences, Department of Electronics and Systems Engineering, University of Pennsylvania.In this project, I am mainly responsible for data processing such as feature extraction and selection of sEMG signal using machine learning. In the part of machine vision processing, I am mainly responsible for pattern recognition of human gesture features through deep learning, and combine sEMG signal with machine vision to process target gesture and gesture features. At the same time, I combine the traditional signal detection with machine vision, human gesture node feature recognition, pattern recognition of gesture features, and test the accuracy of algorithm model.
 
-    

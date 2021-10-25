@@ -1,15 +1,32 @@
-# Welcome to Wang Fang Curriculum Vitae
-Fang Wang
+# **Fang Wang**
 Shanghai Institute of Microsystem and Information Technology
+
 University of Chinese Academy of Sciences
+
 Electronic and Information Engineering
+
 E-mail: wangfang20@mails.ucas.ac.cn
+
 Phone: (+86) 19117166606
 
+## Professional Preparation
+### Academic Degree
 
-### Markdown
++ Sep.2020 - Jul.2023 &emsp; Chinese Academy of Sciences &emsp; Shanghai Institute of Microsystem and Information Technology <br/>
+    Shanghai &emsp; P.R. China &emsp; Advisor: Hen. Yang &emsp; M.E. <br/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
++ Sep.2020 - Jul.2021 &emsp; University of Science and Technology of China &emsp; <br/>
+    Department of Electronic Science and technology &emsp; Hefei &emsp; P.R. China <br/>
+    Advisor: Hen. Yang &emsp;
+
++ Sep.2016 - Jul.2020 &emsp; Xi’an Technological University &emsp; <br/>
+    School of Electronic Information Engineering &emsp; Xi’an &emsp; P.R. China <br/>
+    B.E 
+
+### Academic Practice
++ Nov.2020 - Mar.2021 &emsp; University of Pennsylvania &emsp; <br/>
+    Department of Electronics and Systems Engineering &emsp; PA &emsp; USA <br/>
+
 
 ```markdown
 Syntax highlighted code block

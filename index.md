@@ -1,8 +1,11 @@
-## Welcome to Wang Fang Curriculum Vitae
+# Welcome to Wang Fang Curriculum Vitae
+Fang Wang
+Shanghai Institute of Microsystem and Information Technology
+University of Chinese Academy of Sciences
+Electronic and Information Engineering
+E-mail: wangfang20@mails.ucas.ac.cn
+Phone: (+86) 19117166606
 
-You can use the [editor on GitHub](https://github.com/NereusWang/NereusWang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 

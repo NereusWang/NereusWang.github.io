@@ -1,31 +1,31 @@
 # **Fang Wang**
-Shanghai Institute of Microsystem and Information Technology <br/>
-University of Chinese Academy of Sciences <br/>
-Electronic and Information Engineering <br/>
-E-mail: wangfang20@mails.ucas.ac.cn <br/>
-Phone: (+86) 19117166606 <br/>
+**Shanghai Institute of Microsystem and Information Technology** <br/>
+**University of Chinese Academy of Sciences** <br/>
+**Electronic and Information Engineering** <br/>
+**E-mail: wangfang20@mails.ucas.ac.cn** <br/>
+**Phone: (+86) 19117166606** <br/>
 
 ---
 
 ## **Professional Preparation**
 ### Academic Degree
 
-+ Sep.2020 - Jul.2023 &emsp; Chinese Academy of Sciences &emsp; <br/> 
++ Sep.2020 - Jul.2023 &emsp; **Chinese Academy of Sciences** &emsp; <br/> 
     Shanghai Institute of Microsystem and Information Technology <br/> 
     Shanghai &emsp; P.R. China &emsp; Advisor: Hen. Yang &emsp; M.E. <br/>
 
-+ Sep.2020 - Jul.2021 &emsp; University of Science and Technology of China &emsp; <br/>
++ Sep.2020 - Jul.2021 &emsp; **University of Science and Technology of China** &emsp; <br/>
     Department of Electronic Science and technology &emsp; <br/>
     Hefei &emsp; P.R. China &emsp; Advisor: Hen. Yang &emsp;
 
-+ Sep.2016 - Jul.2020 &emsp; Xi’an Technological University &emsp; <br/>
++ Sep.2016 - Jul.2020 &emsp; **Xi’an Technological University** &emsp; <br/>
     School of Electronic Information Engineering &emsp; <br/>
     Xi’an &emsp; P.R. China &emsp; B.E 
 
 ### Academic Practice
-+ Nov.2020 - Mar.2021 &emsp; University of Pennsylvania &emsp; <br/>
++ Nov.2020 - Mar.2021 &emsp; **University of Pennsylvania** &emsp; <br/>
     Department of Electronics and Systems Engineering &emsp; <br/>
-    PA &emsp; USA <br/>
+    PA &emsp; USA &emsp; Advisor: Jan Van der Spiegel <br/>
     
 ---
 
@@ -66,9 +66,9 @@ Phone: (+86) 19117166606 <br/>
 
 ## **Academic experience (Details)**
 
-+ Nov.2020 - Mar.2021 &emsp; University of Pennsylvania &emsp; <br/>
++ Nov.2020 - Mar.2021 &emsp; **University of Pennsylvania** &emsp; <br/>
     Department of Electronics and Systems Engineering &emsp; <br/>
-    PA &emsp; USA <br/>
+    PA &emsp; USA &emsp; Advisor: Jan Van der Spiegel <br/>
     
     In 2020, I applied to participate in the artificial intelligence chip and brain computer interface project of Professor Jan Van Der Spiegel, School of Engineering and Applied Sciences, Department of Electronics and Systems Engineering, University of Pennsylvania.In this project, I am mainly responsible for data processing such as feature extraction and selection of sEMG signal using machine learning. In the part of machine vision processing, I am mainly responsible for pattern recognition of human gesture features through deep learning, and combine sEMG signal with machine vision to process target gesture and gesture features. At the same time, I combine the traditional signal detection with machine vision, human gesture node feature recognition, pattern recognition of gesture features, and test the accuracy of algorithm model.
 

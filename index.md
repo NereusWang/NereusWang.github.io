@@ -9,20 +9,20 @@
 ## **Professional Preparation**
 ### Academic Degree
 
-+ Sep.2020 - Jul.2023 &emsp; **Chinese Academy of Sciences** &emsp; <br/> 
++ **Sep.2020 - Jul.2023 &emsp; Chinese Academy of Sciences** &emsp; <br/> 
     Shanghai Institute of Microsystem and Information Technology <br/> 
     Shanghai &emsp; P.R. China &emsp; Advisor: Hen. Yang &emsp; M.E. <br/>
 
-+ Sep.2020 - Jul.2021 &emsp; **University of Science and Technology of China** &emsp; <br/>
++ **Sep.2020 - Jul.2021 &emsp; University of Science and Technology of China** &emsp; <br/>
     Department of Electronic Science and technology &emsp; <br/>
     Hefei &emsp; P.R. China &emsp; Advisor: Hen. Yang &emsp;
 
-+ Sep.2016 - Jul.2020 &emsp; **Xi’an Technological University** &emsp; <br/>
++ **Sep.2016 - Jul.2020 &emsp; Xi’an Technological University** &emsp; <br/>
     School of Electronic Information Engineering &emsp; <br/>
     Xi’an &emsp; P.R. China &emsp; B.E 
 
 ### Academic Practice
-+ Nov.2020 - Mar.2021 &emsp; **University of Pennsylvania** &emsp; <br/>
++ **Nov.2020 - Mar.2021 &emsp; University of Pennsylvania** &emsp; <br/>
     Department of Electronics and Systems Engineering &emsp; <br/>
     PA &emsp; USA &emsp; Advisor: Jan Van der Spiegel <br/>
     

@@ -60,8 +60,8 @@
 ---
 
 ## **Publication of Papers & Patents**
-+ Computer Software Patent - Image reconstruction software of variational self encoder based on Quaternion
-+ Computer Software Patent - Indoor Bluetooth positioning software based on Kalman filter
++ Computer Software Patent - Image Reconstruction Software of Variational Self Encoder Based on Quaternion
++ Computer Software Patent - Indoor Bluetooth Positioning Software Based on Kalman Filter
 + Gesture Recognition Based on sEMG and Support Vector Machine &emsp; 2021 IEEE International Conference on Robotics, Automation and Artificial Intelligence (RAAI) &emsp; First author
 
 ---

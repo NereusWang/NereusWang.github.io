@@ -67,7 +67,7 @@
 
 ---
 
-## **Academic experience (Details)**
+## **Academic Experience (Details)**
 
 + Nov.2020 - Mar.2021 &emsp; **University of Pennsylvania** &emsp; <br/>
     Department of Electronics and Systems Engineering &emsp; <br/>

@@ -74,3 +74,32 @@
     PA &emsp; USA &emsp; Advisor: Jan Van der Spiegel <br/>
     
     In 2020, I applied to participate in the artificial intelligence chip and brain computer interface project of Professor Jan Van Der Spiegel, School of Engineering and Applied Sciences, Department of Electronics and Systems Engineering, University of Pennsylvania.In this project, I am mainly responsible for data processing such as feature extraction and selection of sEMG signal using machine learning. In the part of machine vision processing, I am mainly responsible for pattern recognition of human gesture features through deep learning, and combine sEMG signal with machine vision to process target gesture and gesture features. At the same time, I combine the traditional signal detection with machine vision, human gesture node feature recognition, pattern recognition of gesture features, and test the accuracy of algorithm model.
+    
+---
+
+## **Professional Skills**
+
++ Machine Learning Algorithm <br/>
+    + Decision Tree; Random Forest <br/>
+    + Data Preprocessing & Feature Engineering: dimensionless data, processing sub type data and continuous data <br/>
+    + Feature Selection: filtering method, chi square test, F test, mutual information method, embedded embedding method, wrapper packaging method <br/>
+    + Principal Component Analysis (PCA) <br/>
+    + Singular Value Decomposition (SVD) <br/>
+    + Logistic Regression; Sub box; K-means Clustering Algorithm <br/>
+    + Support Vector Machine (SVM) <br/>
+ <br/>
++ Machine Learning Practice Project <br/>
+    + Dimension Reduction and Application of PCA to Handwritten Datasets <br/>
+    + Application of Random Forest on Breast Cancer Dataset <br/>
+    + Noise Filtering Based on PCA <br/>
+    + Application of Making Score Card by Logistic Regression <br/>
+    + K-Means Clustering Algorithm for High-Dimensional Data Based on Contour-Coefficient <br/>
+    + Vector Quantization Application of K-Means <br/>
+    + Motion State Monitoring Based on Naive Bayesian Algorithm <br/>
+    + Comparison and Application of Different SVM Kernel Functions on Different Datasets <br/>
+    
+    
+    
+    
+    
+    

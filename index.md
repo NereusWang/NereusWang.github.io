@@ -88,6 +88,7 @@
     + Logistic Regression; Sub box; K-means Clustering Algorithm <br/>
     + Support Vector Machine (SVM) <br/>
  <br/>
+ 
 + Machine Learning Practice Project <br/>
     + Dimension Reduction and Application of PCA to Handwritten Datasets <br/>
     + Application of Random Forest on Breast Cancer Dataset <br/>

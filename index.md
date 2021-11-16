@@ -35,6 +35,7 @@
 
 ### Master Stage
 
++ 2021 The 9th National College Students' digital media scientific and technological works and creativity competition - National First Prize
 + 2021 The 7th 3S Cup National IoT Technology and Application Competition - National Second Prize
 + 2021 TCL National Science and Technology Innovation Competition - Third Winner in Contest
 + 2021 The 11th MathorCup Mathematics Modeling Challenge Competition - National Second Prize

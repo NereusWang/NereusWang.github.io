@@ -1,4 +1,4 @@
-# **Fang Wang (Curriculum Vitae)**
+# **Fang Wang** <font size=2> (Curriculum Vitae) </font>
 **Shanghai Institute of Microsystem and Information Technology** <br/>
 **University of Chinese Academy of Sciences** <br/>
 **Electronic and Information Engineering** <br/>

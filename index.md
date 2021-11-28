@@ -41,10 +41,10 @@
 + 2021 TCL National Science and Technology Innovation Competition - Third Winner in Contest
 + 2021 The 11th MathorCup Mathematics Modeling Challenge Competition - National Second Prize
 + Merit Student - Chinese Academy of Sciences (2020)
-+ 2020 The 10th APMCM Asia Pacific mathematical modeling contest - National Second Prize
-+ 2020 The National College English Translation Contest - Provincial First Prize
-+ 2020 The fifth "Silk Road Cup" national Sudoku competition - The Best Outstanding Award
-+ 2020 The military industry knowledge competition of China Association for peaceful uses of military industry - National First Prize
++ 2020 The 10th APMCM Asia Pacific Mathematical Modeling Competition - National Second Prize
++ 2020 The National College English Translation Competition - Provincial First Prize
++ 2020 The Fifth "Silk Road Cup" National Sudoku Competition - The Best Outstanding Award
++ 2020 The Military Industry Knowledge Competition of China Association for Peaceful Uses of Military Industry - National First Prize
 
 ### Undergraduate Stage
 
@@ -53,10 +53,10 @@
 + 2019 Excellent Camper in Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences
 + 2019 The 12th "Authentication Cup" Mathematical Modeling Network Challenge - National First Prize
 + 2018 "Zhong-Qing Cup" National Undergraduate Mathematical Modeling Competition - National Third Prize
-+ 2018 "Higher Education Society Cup" national college students mathematical modeling competition - Provincial Second Prize
-+ 2018 The 7th China Mathematical Modeling international competition - Honorable Mention
++ 2018 "Higher Education Society Cup" National College Students Mathematical Modeling Competition - Provincial Second Prize
++ 2018 The 7th China Mathematical Modeling International Competition - Honorable Mention
 + Merit Student - Xi’an Technological University (2017)
-+ 2017 "Higher Education Society Cup" national college students mathematical modeling competition - Provincial First Prize
++ 2017 "Higher Education Society Cup" National College Students Mathematical Modeling Competition - Provincial First Prize
 + 2016 "Philosophy Cup" Debate Competition - The Best Debater Team
 
 ---

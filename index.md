@@ -35,6 +35,7 @@
 
 ### Master Stage
 
++ 2021 China Engineering Robot Competition & International Open - Artificial Intelligence Group - National First Prize
 + 2021 The 9th National College Student Digital Media Scientific and Technological Work Competition - National First Prize
 + 2021 The 7th 3S Cup National IoT Technology and Application Competition - National Second Prize
 + 2021 TCL National Science and Technology Innovation Competition - Third Winner in Contest

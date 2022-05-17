@@ -127,24 +127,16 @@
     + Comparison and Application of Different SVM Kernel Functions on Different Datasets <br/>
 
 + Deep Learning Practice Project <br/>
-    + 1. Image classification based on attention mechanism LSTM cyclic neural network;<br/>
-    + 2. Image classification based on Janet cyclic neural network;<br/>
-    + 
-    + 
-3. Svhn Street real scene doorplate recognition based on residual neural network;<br/>
-4. 
-5. Generate image data based on variational self coding neural network;<br/>
-6. Controllable simulation data generation based on conditional self coding neural network;<br/>
-7. Simulate the image generation effect based on wgan GP and wgan div;<br/>
-8. Execute the image searcher based on the maximum depth mutual information neural network;<br/>
-9. Paper classification task based on graph neural network;<br/>
-10. Paper classification task based on graph attention mechanism neural network;<br/>
-11. Implementation of multi-layer task classification based on gat;<br/>
-12. Basic operation of dglgraph;<br/>
-13. Urban traffic flow prediction based on graph neural network;<br/>
-    
-    
-    
-    
-    
-    
+    + Image classification based on Attention Mechanism LSTM Recurrent Neural Network;<br/>
+    + Image classification based on JANET Recurrent Neural Network;<br/>
+    + SVHN Street real scene doorplate recognition based on residual Neural Network;<br/>
+    + Generate Image Data Based on Variational Self-coding Neural Network;<br/>
+    + Controllable simulation data generation based on conditional self coding Neural Network;<br/>
+    + Simulate the Image Generation Effect based on WGAN-gp and WGAN-div;<br/>
+    + Execute the image searcher based on the maximum depth mutual information Neural Network;<br/>
+    + Paper classification task based on graph Neural Network;<br/>
+    + Paper classification task based on graph attention mechanism Neural Network;<br/>
+    + Implementation of multi-layer task classification based on gat;<br/>
+    + Basic operation of DGLgraph;<br/>
+    + Urban traffic flow prediction based on graph Neural Network;<br/>
+

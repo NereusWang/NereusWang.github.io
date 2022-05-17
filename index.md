@@ -80,15 +80,27 @@
 + Mar.2021 - Jul.2021 &emsp; Application of Human-Computer Interaction Intelligent Medical Gesture Robot Based on Graph Neural Network <br/>
     + Chinese Academy of Sciences <br/>
     Shanghai Institute of Microsystem and Information Technology <br/>
+    Shanghai &emsp; China &emsp; <br/>
     
     + The main research direction of human-computer intelligent synergy is to take intelligent human-computer interaction system as the goal, supported by information technology and biomedical engineering, around the theme of bio-intelligence and artificial intelligence synergy, focusing on the research of artificial intelligence and intelligent medical integration synergy technology, the key research articulation direction of this project is in the intelligent robot gesture interface, from which the application of human-computer intelligent synergy in intelligent medical treatment is reflected.<br/>
     This project is mainly based on Attention mechanism graph adversarial neural network algorithm (GAAN model), the combination of contact wearable devices and artificial intelligence technology, design of mobile robots together to complete the application of human-machine collaborative intelligent medical hand trauma rehabilitation, at the same time, can be combined with gesture characteristics posture and 3D point cloud to complete the application of telemedicine overhead gestures.
   
 + Nov.2021 - Mar.2022 &emsp; Pulse Diagnosis of Traditional Chinese medicine Based on Neural Network and High-density Flexible Tactile Sensing Array <br/>
     + Chinese Academy of Sciences <br/>
+    Ministry of Science and Technology of the People´s Republic of China <br/>
     Guangdong Xinhuangpu Joint Innovation Institute of Chinese Medicine <br/>
+    Guangzhou &emsp; China &emsp; <br/>
     
-    + This project belongs to a major special project. I am mainly responsible for pulse diagnosis data collection and processing. Through machine learning and deep learning algorithms, I classify and select features of the collected pulse diagnosis data, explore the relationship between human pulse wave data and different pulse phenomena in traditional Chinese medicine, and carry out classification and recognition.
+    
+    + This project belongs to a major national project of the Ministry of science and technology of People´s Republic of China. We designed and produced a high-density flexible tactile sensor, which can collect the pulse data of three parts of the human body. We cooperated with Shanghai Longhua Hospital and Guangzhou Hospital of traditional Chinese medicine of Guangdong Province to collect the pulse wave data of human body in Shanghai and Guangzhou, and classified the different pulse conditions of different people. I am mainly responsible for the collection and processing of pulse diagnosis data. Through machine learning and deep learning algorithms, I classify and select the characteristics of the collected pulse diagnosis data, explore the relationship between human pulse wave data and different pulse phenomena in traditional Chinese medicine, and carry out classification and recognition.
+
++ Mar.2022 - May.2022 &emsp; Pulse Diagnosis of Traditional Chinese medicine Based on Neural Network and High-density Flexible Tactile Sensing Array <br/>
+    + Chinese Academy of Sciences <br/>
+    Ministry of Science and Technology of the People´s Republic of China <br/>
+    Guangdong Xinhuangpu Joint Innovation Institute of Chinese Medicine <br/>
+    Guangzhou &emsp; China &emsp; <br/>
+    
+    + In this project, I propose a method of integrating attention mechanism, recurrent neural network and graph neural network to recognize and classify different medical data. On this basis, I build a multi-dimensional digital medical image processing framework.
     
 ---
 

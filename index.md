@@ -28,7 +28,6 @@
     Department of Electronics and Systems Engineering &emsp; <br/>
     PA &emsp; USA &emsp; Advisor: Jan Van der Spiegel <br/>
     
-    
 ---
 
 ## **Award-Winning Practice**
@@ -37,8 +36,9 @@
 
 + 2021 China Engineering Robot Competition & International Open - Artificial Intelligence Group - National First Prize
 + 2021 The 9th National College Student Digital Media Scientific and Technological Work Competition - National First Prize
++ 2021 The 9th "Sharing Cup" Science and Technology Resource Sharing Service Innovation Competition - National Third Prize
 + 2021 The 7th 3S Cup National IoT Technology and Application Competition - National Second Prize
-+ 2021 TCL National Science and Technology Innovation Competition - Third Winner in Contest
++ 2021 TCL National Science and Technology Innovation Competition - Bronze Award
 + 2021 The 11th MathorCup Mathematics Modeling Challenge Competition - National Second Prize
 + Merit Student - Chinese Academy of Sciences (2020)
 + 2020 The 10th APMCM Asia Pacific Mathematical Modeling Competition - National Second Prize
@@ -48,9 +48,9 @@
 
 ### Undergraduate Stage
 
-+ Outstanding Graduates (2020)
-+ Excellent Graduation Thesis (2020)
-+ 2019 Excellent Camper in Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences
++ Outstanding Graduates - Xi’an Technological University (2020)
++ Excellent Graduation Thesis - Xi’an Technological University (2020)
++ Excellent Camper - Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences (2019)
 + 2019 The 12th "Authentication Cup" Mathematical Modeling Network Challenge - National First Prize
 + 2018 "Zhong-Qing Cup" National Undergraduate Mathematical Modeling Competition - National Third Prize
 + 2018 "Higher Education Society Cup" National College Students Mathematical Modeling Competition - Provincial Second Prize
@@ -62,19 +62,35 @@
 ---
 
 ## **Publication of Papers & Patents**
-+ Computer Software Patent - Image Reconstruction Software of Variational Self Encoder Based on Quaternion
-+ Computer Software Patent - Indoor Bluetooth Positioning Software Based on Kalman Filter
-+ Gesture Recognition Based on sEMG and Support Vector Machine &emsp; 2021 IEEE International Conference on Robotics, Automation and Artificial Intelligence (RAAI) &emsp; First author
++ Image Reconstruction Software of Variational Self Encoder Based on Quaternionm,Computer Software Patent,Public number:2021R11L2445953, 2021
++ Indoor Bluetooth Positioning Software Based on Kalman Filter,Computer Software Patent, Public number:2020R11L2512843, 2020
++ **Fang Wang**, Jianing Jing, et al. Gesture Recognition Based on sEMG and Support Vector Machine &emsp. 2021 IEEE International Conference on Robotics, Automation and Artificial Intelligence (RAAI) (Published EI)
 
 ---
 
-## **Academic Experience (Details)**
+## **Scientific Research & Academic Projects**
 
-+ Nov.2020 - Mar.2021 &emsp; **University of Pennsylvania** &emsp; <br/>
++ Nov.2020 - Mar.2021 &emsp; Artificial Intelligence Chip and Brain Computer Interface Project;<br/>
+    **University of Pennsylvania** &emsp; <br/>
     Department of Electronics and Systems Engineering &emsp; <br/>
     PA &emsp; USA &emsp; Advisor: Jan Van der Spiegel <br/>
     
-    2020, I applied to participate in the artificial intelligence chip and brain computer interface project of Professor Jan Van Der Spiegel, School of Engineering and Applied Sciences, Department of Electronics and Systems Engineering, University of Pennsylvania.In this project, I am mainly responsible for data processing such as feature extraction and selection of sEMG signal using machine learning. In the part of machine vision processing, I am mainly responsible for pattern recognition of human gesture features through deep learning, and combine sEMG signal with machine vision to process target gesture and gesture features. At the same time, I combine the traditional signal detection with machine vision, human gesture node feature recognition, pattern recognition of gesture features, and test the accuracy of algorithm model.
+    2020, I applied to participate in the artificial intelligence chip and brain computer interface project of Professor Jan Van Der Spiegel, School of Engineering and Applied Sciences, Department of Electronics and Systems Engineering, University of Pennsylvania. In the project, I am mainly responsible for data processing such as feature extraction and selection of sEMG signal using machine learning and deep learning through sota neural network model. In the part of machine vision processing, I am mainly responsible for pattern recognition of human gesture features through deep learning and combine sEMG signal with machine vision to process target gesture features. At the same time, I combine the traditional signal detection with machine vision, human gesture node feature recognition, pattern recognition of gesture features, and test the accuracy of algorithm model.
+    
++ Mar.2021 - Jul.2021 &emsp; Application of Human-Computer Interaction Intelligent Medical Gesture Robot Based on Graph Neural Network;<br/>
+    Chinese Academy of Sciences
+    Shanghai Institute of Microsystem and Information Technology
+    
+    The main research direction of human-computer intelligent synergy is to take intelligent human-computer interaction system as the goal, supported by information technology and biomedical engineering, around the theme of bio-intelligence and artificial intelligence synergy, focusing on the research of artificial intelligence and intelligent medical integration synergy technology, the key research articulation direction of this project is in the intelligent robot gesture interface, from which the application of human-computer intelligent synergy in intelligent medical treatment is reflected.
+    This project is mainly based on Attention mechanism graph adversarial neural network algorithm (GAAN model), the combination of contact wearable devices and artificial intelligence technology, design of mobile robots together to complete the application of human-machine collaborative intelligent medical hand trauma rehabilitation, at the same time, can be combined with gesture characteristics posture and 3D point cloud to complete the application of telemedicine overhead gestures.
+  
++ Nov.2021 - Mar.2022 &emsp; Research on Pulse Diagnosis of Traditional Chinese medicine Based on Neural Network and High-density Flexible Tactile Sensing Array;<br/>
+    Chinese Academy of Sciences
+    Guangdong Xinhuangpu Joint Innovation Institute of Chinese Medicine
+    
+    This project belongs to a major special project. I am mainly responsible for pulse diagnosis data collection and processing. Through machine learning and deep learning algorithms, I classify and select features of the collected pulse diagnosis data, explore the relationship between human pulse wave data and different pulse phenomena in traditional Chinese medicine, and carry out classification and recognition.
+    
+    
     
 ---
 

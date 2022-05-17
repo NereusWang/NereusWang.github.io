@@ -71,7 +71,7 @@
 ## **Scientific Research & Academic Projects**
 
 + Nov.2020 - Mar.2021 &emsp; Artificial Intelligence Chip and Brain Computer Interface Project;<br/>
-    **University of Pennsylvania** &emsp; <br/>
+    + **University of Pennsylvania** &emsp; <br/>
     Department of Electronics and Systems Engineering &emsp; <br/>
     PA &emsp; USA &emsp; Advisor: Jan Van der Spiegel <br/>
     

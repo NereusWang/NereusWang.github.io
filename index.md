@@ -104,7 +104,7 @@
     
 ---
 
-## **Professional Skills**
+## **Practical Skills & Projections**
 
 + Machine Learning Algorithm <br/>
     + Decision Tree; Random Forest <br/>
@@ -125,6 +125,23 @@
     + Vector Quantization Application of K-Means <br/>
     + Motion State Monitoring Based on Naive Bayesian Algorithm <br/>
     + Comparison and Application of Different SVM Kernel Functions on Different Datasets <br/>
+
++ Deep Learning Practice Project <br/>
+    + 1. Image classification based on attention mechanism LSTM cyclic neural network;<br/>
+    + 2. Image classification based on Janet cyclic neural network;<br/>
+    + 
+    + 
+3. Svhn Street real scene doorplate recognition based on residual neural network;<br/>
+4. 
+5. Generate image data based on variational self coding neural network;<br/>
+6. Controllable simulation data generation based on conditional self coding neural network;<br/>
+7. Simulate the image generation effect based on wgan GP and wgan div;<br/>
+8. Execute the image searcher based on the maximum depth mutual information neural network;<br/>
+9. Paper classification task based on graph neural network;<br/>
+10. Paper classification task based on graph attention mechanism neural network;<br/>
+11. Implementation of multi-layer task classification based on gat;<br/>
+12. Basic operation of dglgraph;<br/>
+13. Urban traffic flow prediction based on graph neural network;<br/>
     
     
     

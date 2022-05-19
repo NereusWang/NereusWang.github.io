@@ -126,17 +126,22 @@
     + Comparison and Application of Different SVM Kernel Functions on Different Datasets <br/>
 
 + Deep Learning Practice Project <br/>
-    + Image classification based on Attention Mechanism LSTM Recurrent Neural Network;<br/>
-        + Image classification based on JANET Recurrent Neural Network;<br/>
-        
-    + SVHN Street real scene doorplate recognition based on residual Neural Network;<br/>
-    + Generate Image Data Based on Variational Self-coding Neural Network;<br/>
-    + Controllable simulation data generation based on conditional self coding Neural Network;<br/>
-    + Simulate the Image Generation Effect based on WGAN-gp and WGAN-div;<br/>
-    + Execute the image searcher based on the maximum depth mutual information Neural Network;<br/>
-    + Paper classification task based on graph Neural Network;<br/>
-    + Paper classification task based on graph attention mechanism Neural Network;<br/>
-    + Implementation of multi-layer task classification based on gat;<br/>
-    + Basic operation of DGLgraph;<br/>
-    + Urban traffic flow prediction based on graph Neural Network;<br/>
+    + Deep Learning Basic Projects <br/>
+        + Image classification based on Attention Mechanism LSTM Recurrent Neural Network <br/>
+        + Image classification based on JANET Recurrent Neural Network <br/>
+        + SVHN Street real scene doorplate recognition based on residual Neural Network <br/>
+        + Generate Image Data Based on Variational Self-coding Neural Network <br/>
+        + Controllable simulation data generation based on conditional self coding Neural Network <br/>
+        + Simulate the Image Generation Effect based on WGAN-gp and WGAN-div <br/>
+        + Execute the image searcher based on the maximum depth mutual information Neural Network <br/>
+    + Computer Vision Projects <br/>
+        + Identify and Classify CUB-200 Bird Dataset Based on Transfer learning <br/>
+        + Target Detection and Semantic Segmentation Based on Mask R-CNN Model <br/>
+    + Natural Language Processing Projects <br/>
+        + Basic operation of DGLgraph <br/>
+        + Paper classification task based on graph Neural Network <br/>
+        + Paper classification task based on graph attention mechanism Neural Network <br/>
+        + Implementation of multi-layer task classification based on GAT (Graph Attention Networks) <br/>
+        + Paper classification based on SGC (Simple Graph Convolution) <br/>
+        + Urban traffic flow prediction based on graph Neural Network <br/>
 

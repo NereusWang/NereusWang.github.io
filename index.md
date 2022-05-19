@@ -5,7 +5,6 @@
 **E-mail: wangfang20@mails.ucas.ac.cn** <br/>
 **Phone: (+86) 19117166606** <br/>
 
-
 ---
 
 ## **Professional Preparation**
@@ -104,7 +103,7 @@
     
 ---
 
-## **Practical Skills & Projections**
+## **Practical Skills & Projects**
 
 + Machine Learning Algorithm <br/>
     + Decision Tree; Random Forest <br/>
@@ -127,7 +126,7 @@
     + Comparison and Application of Different SVM Kernel Functions on Different Datasets <br/>
 
 + Deep Learning Practice Project <br/>
-    + Image classification based on Attention Mechanism LSTM Recurrent Neural Network;<br/>
+    ++ Image classification based on Attention Mechanism LSTM Recurrent Neural Network;<br/>
     + Image classification based on JANET Recurrent Neural Network;<br/>
     + SVHN Street real scene doorplate recognition based on residual Neural Network;<br/>
     + Generate Image Data Based on Variational Self-coding Neural Network;<br/>

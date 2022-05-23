@@ -147,7 +147,7 @@
 
 + Artificial Intelligence Practical Works <br/>
     + AI Virtual Gesture Movement and Computer Collaborative Application <br/>
-        + ![image]()
+        + ![image](https://github.com/NereusWang/NereusWang.github.io/blob/main/2022_05_23_18_47_06_363.gif)
 
 
 

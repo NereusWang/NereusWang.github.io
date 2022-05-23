@@ -63,7 +63,7 @@
 ## **Publication of Papers & Patents**
 + Image Reconstruction Software of Variational Self Encoder Based on Quaternionm,Computer Software Patent,Public number:2021R11L2445953, 2021
 + Indoor Bluetooth Positioning Software Based on Kalman Filter,Computer Software Patent, Public number:2020R11L2512843, 2020
-+ **Fang Wang**, Jianing Jing, et al. Gesture Recognition Based on sEMG and Support Vector Machine &emsp. 2021 IEEE International Conference on Robotics, Automation and Artificial Intelligence (RAAI) (Published EI)
++ **Fang Wang**, Jianing Jing, et al. Gesture Recognition Based on sEMG and Support Vector Machine. 2021 IEEE International Conference on Robotics, Automation and Artificial Intelligence (RAAI) (Published EI)
 
 ---
 
@@ -144,4 +144,13 @@
         + Implementation of multi-layer task classification based on GAT (Graph Attention Networks) <br/>
         + Paper classification based on SGC (Simple Graph Convolution) <br/>
         + Urban traffic flow prediction based on graph Neural Network <br/>
+
++ Artificial Intelligence Practical Works <br/>
+    + AI Virtual Gesture Movement and Computer Collaborative Application <br/>
+        + ![image]()
+
+
+
+
+
 

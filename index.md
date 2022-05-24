@@ -168,7 +168,6 @@
 
 + Artificial Intelligence Practical Works <br/>
     + AI Virtual Gesture Movement and Computer Collaborative Application <br/>
-        + ![image](https://github.com/NereusWang/NereusWang.github.io/blob/main/AI_moving.gif)
         + I use opencv combined with mediapipe to complete the movement of AI virtual box, obtain the left side of the key single of the finger through mediapipe, judge whether the finger is on the box, and constantly update the movement of the box.(You can find the demonstration in my github repository)
     + Research on Chinese Calligraphy Font Recognition Based on HOG + SVM <br/>
         + In the project, I used traditional morphological methods (erosion, expansion) for target detection and traditional machine learning methods (HOG+SVM) for multi-objective classification, respectively.(You can find the demonstration in my github repository)

@@ -34,8 +34,12 @@
 ### Master Stage
 
 + 2022 The 2th "Innovative Cup" Future Technology Innovation Competition
-    + Awards:Shanghai Division Nomination Award & Selected into High-quality Project Library + Organizer: Chinese Academy of Sciences
+    + Awards: Shanghai Division Nomination Award & Selected into High-quality Project Library 
+    + Organizer: Chinese Academy of Sciences
 + 2021 China Engineering Robot Competition & International Open - Artificial Intelligence Group - National First Prize
+    + Awards: National First Prize
+    + Organizer: Chinese Association for Artificial Intelligence (CAAI)
+
 + 2021 The 9th National College Student Digital Media Scientific and Technological Work Competition - National First Prize
 + 2021 The 9th "Sharing Cup" Science and Technology Resource Sharing Service Innovation Competition - National Third Prize
 + 2021 The 7th 3S Cup National IoT Technology and Application Competition - National Second Prize

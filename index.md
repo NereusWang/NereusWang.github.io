@@ -41,15 +41,41 @@
     + Organizer: Chinese Association for Artificial Intelligence (CAAI)
 
 + 2021 The 9th National College Student Digital Media Scientific and Technological Work Competition - National First Prize
+    + Awards: National First Prize
+    + Organizer: Chinese Association for Artificial Intelligence (CAAI)
+
 + 2021 The 9th "Sharing Cup" Science and Technology Resource Sharing Service Innovation Competition - National Third Prize
++ Awards: National First Prize
+    + Organizer: Chinese Association for Artificial Intelligence (CAAI)
+
 + 2021 The 7th 3S Cup National IoT Technology and Application Competition - National Second Prize
++ Awards: National First Prize
+    + Organizer: Chinese Association for Artificial Intelligence (CAAI)
+
 + 2021 TCL National Science and Technology Innovation Competition - Bronze Award
++ Awards: National First Prize
+    + Organizer: Chinese Association for Artificial Intelligence (CAAI)
+
 + 2021 The 11th MathorCup Mathematics Modeling Challenge Competition - National Second Prize
++ Awards: National First Prize
+    + Organizer: Chinese Association for Artificial Intelligence (CAAI)
+
 + Merit Student - Chinese Academy of Sciences (2020)
+
+
 + 2020 The 10th APMCM Asia Pacific Mathematical Modeling Competition - National Second Prize
++ Awards: National First Prize
+    + Organizer: Chinese Association for Artificial Intelligence (CAAI)
+
 + 2020 The National College English Translation Competition - Provincial First Prize
+
+
 + 2020 The Fifth "Silk Road Cup" National Sudoku Competition - The Best Outstanding Award
+
+
 + 2020 The Military Industry Knowledge Competition of China Association for Peaceful Uses of Military Industry - National First Prize
+
+
 
 ### Undergraduate Stage
 

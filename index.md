@@ -36,29 +36,29 @@
 + 2022 The 2th "Innovative Cup" Future Technology Innovation Competition
     + Awards: Shanghai Division Nomination Award & Selected into High-quality Project Library 
     + Organizer: Chinese Academy of Sciences
-+ 2021 China Engineering Robot Competition & International Open - Artificial Intelligence Group - National First Prize
++ 2021 China Engineering Robot Competition & International Open - Artificial Intelligence Group
     + Awards: National First Prize
     + Organizer: Chinese Association for Artificial Intelligence (CAAI)
 
-+ 2021 The 9th National College Student Digital Media Scientific and Technological Work Competition - National First Prize
++ 2021 The 9th National College Student Digital Media Scientific and Technological Work Competition
     + Awards: National First Prize
+    + Organizer: Ministry of Science and Technology of the People´s Republic of China
+
++ 2021 The 9th "Sharing Cup" Science and Technology Resource Sharing Service Innovation Competition
+    + Awards: National Third Prize
     + Organizer: Chinese Association for Artificial Intelligence (CAAI)
 
-+ 2021 The 9th "Sharing Cup" Science and Technology Resource Sharing Service Innovation Competition - National Third Prize
-+ Awards: National First Prize
-    + Organizer: Chinese Association for Artificial Intelligence (CAAI)
-
-+ 2021 The 7th 3S Cup National IoT Technology and Application Competition - National Second Prize
-+ Awards: National First Prize
-    + Organizer: Chinese Association for Artificial Intelligence (CAAI)
++ 2021 The 7th 3S Cup National IoT Technology and Application Competition
+    + Awards: National Second Prize
+    + Organizer: Chinese Institute of Electronics; China Institute of Communications (CIC)
 
 + 2021 TCL National Science and Technology Innovation Competition - Bronze Award
-+ Awards: National First Prize
-    + Organizer: Chinese Association for Artificial Intelligence (CAAI)
+    + Awards: Bronze Award
+    + Organizer: TCL Technology Group Corporation
 
 + 2021 The 11th MathorCup Mathematics Modeling Challenge Competition - National Second Prize
-+ Awards: National First Prize
-    + Organizer: Chinese Association for Artificial Intelligence (CAAI)
+    + Awards: National Second Prize
+    + Organizer: 
 
 + Merit Student - Chinese Academy of Sciences (2020)
 

@@ -39,42 +39,31 @@
 + 2021 China Engineering Robot Competition & International Open - Artificial Intelligence Group
     + Awards: National First Prize
     + Organizer: Chinese Association for Artificial Intelligence (CAAI)
-
 + 2021 The 9th National College Student Digital Media Scientific and Technological Work Competition
     + Awards: National First Prize
     + Organizer: Ministry of Science and Technology of the People´s Republic of China
-
 + 2021 The 9th "Sharing Cup" Science and Technology Resource Sharing Service Innovation Competition
     + Awards: National Third Prize
     + Organizer: Chinese Association for Artificial Intelligence (CAAI)
-
 + 2021 The 7th 3S Cup National IoT Technology and Application Competition
     + Awards: National Second Prize
     + Organizer: Chinese Institute of Electronics; China Institute of Communications (CIC)
-
-+ 2021 TCL National Science and Technology Innovation Competition - Bronze Award
++ 2021 TCL National Science and Technology Innovation Competition
     + Awards: Bronze Award
     + Organizer: TCL Technology Group Corporation
-
-+ 2021 The 11th MathorCup Mathematics Modeling Challenge Competition - National Second Prize
++ 2021 The 11th MathorCup Mathematics Modeling Challenge Competition
     + Awards: National Second Prize
-    + Organizer: 
-
+    + Organizer: Chinese Society of Optimization, Overall Planning and Economic Mathematics
 + Merit Student - Chinese Academy of Sciences (2020)
-
-
-+ 2020 The 10th APMCM Asia Pacific Mathematical Modeling Competition - National Second Prize
-+ Awards: National First Prize
-    + Organizer: Chinese Association for Artificial Intelligence (CAAI)
-
-+ 2020 The National College English Translation Competition - Provincial First Prize
-
-
-+ 2020 The Fifth "Silk Road Cup" National Sudoku Competition - The Best Outstanding Award
-
-
-+ 2020 The Military Industry Knowledge Competition of China Association for Peaceful Uses of Military Industry - National First Prize
-
++ 2020 The 10th APMCM Asia Pacific Mathematical Modeling Competition
+    + Awards: National Second Prize
+    + Organizer: Beijing Society of Image and Graphics (BSIG)
++ 2020 The National College English Translation Competition
+    + Awards: Provincial First Prize
+    + Organizer: International Organization of Teachers of English as a Foreign Language
++ 2020 The Military Industry Knowledge Competition of China Association for Peaceful Uses of Military Industry
+    + Awards: National First Prize
+    + Organizer: China Association For Peaceful Use of Military Industrial Technology (CAPUMIT)
 
 
 ### Undergraduate Stage

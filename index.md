@@ -120,7 +120,7 @@
     Guangdong Xinhuangpu Joint Innovation Institute of Chinese Medicine <br/>
     Guangzhou &emsp; China &emsp; <br/>
     
-    + In this project, I propose a method of integrating attention mechanism, recurrent neural network and graph neural network to recognize and classify different medical data. On this basis, I build a multi-dimensional digital medical image processing framework.
+    + In this project, I propose a method to fuse attention mechanism, recurrent neural network, and graph neural network for feature recognition and classification of different medical data, based on which a multidimensional framework for digital medical image processing is constructed. A cutting-edge deep mutual information algorithm is used to construct a medical data image matcher to recognize retrieve and classify images of different medical diseases.
     
 ---
 
@@ -169,8 +169,9 @@
 + Artificial Intelligence Practical Works <br/>
     + AI Virtual Gesture Movement and Computer Collaborative Application <br/>
         + ![image](https://github.com/NereusWang/NereusWang.github.io/blob/main/AI_moving.gif)
-        + In this project, I use opencv combined with mediapipe to complete the movement of AI virtual box, obtain the left side of the key single of the finger through mediapipe, judge whether the finger is on the box, and constantly update the movement of the box.
-
+        + I use opencv combined with mediapipe to complete the movement of AI virtual box, obtain the left side of the key single of the finger through mediapipe, judge whether the finger is on the box, and constantly update the movement of the box.(You can find the demonstration in my github repository)
+    + Research on Chinese Calligraphy Font Recognition Based on HOG + SVM <br/>
+        + In the project, I used traditional morphological methods (erosion, expansion) for target detection and traditional machine learning methods (HOG+SVM) for multi-objective classification, respectively.(You can find the demonstration in my github repository)
 
 
 

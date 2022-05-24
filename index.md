@@ -33,6 +33,8 @@
 
 ### Master Stage
 
++ 2022 The 2th "Innovative Cup" Future Technology Innovation Competition - Shanghai Division Nomination Award & Selected into High-quality Project Library
+    + Organizer: Chinese Academy of Sciences
 + 2021 China Engineering Robot Competition & International Open - Artificial Intelligence Group - National First Prize
 + 2021 The 9th National College Student Digital Media Scientific and Technological Work Competition - National First Prize
 + 2021 The 9th "Sharing Cup" Science and Technology Resource Sharing Service Innovation Competition - National Third Prize
@@ -148,7 +150,6 @@
 + Artificial Intelligence Practical Works <br/>
     + AI Virtual Gesture Movement and Computer Collaborative Application <br/>
         + ![image](https://github.com/NereusWang/NereusWang.github.io/blob/main/AI_moving.gif)
-        + <img src="https://github.com/NereusWang/NereusWang.github.io/blob/main/AI_moving.gif" >
         + In this project, I use opencv combined with mediapipe to complete the movement of AI virtual box, obtain the left side of the key single of the finger through mediapipe, judge whether the finger is on the box, and constantly update the movement of the box.
 
 

@@ -33,7 +33,8 @@
 
 ### Master Stage
 
-+ 2022 The 2th "Innovative Cup" Future Technology Innovation Competition - Shanghai Division Nomination Award & Selected into High-quality Project Library
++ 2022 The 2th "Innovative Cup" Future Technology Innovation Competition
+    + Awards:Shanghai Division Nomination Award & Selected into High-quality Project Library
     + Organizer: Chinese Academy of Sciences
 + 2021 China Engineering Robot Competition & International Open - Artificial Intelligence Group - National First Prize
 + 2021 The 9th National College Student Digital Media Scientific and Technological Work Competition - National First Prize

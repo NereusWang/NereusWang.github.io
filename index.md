@@ -114,7 +114,7 @@
     
     + This project belongs to a major national project of the Ministry of science and technology of People´s Republic of China. We designed and produced a high-density flexible tactile sensor, which can collect the pulse data of three parts of the human body. We cooperated with Shanghai Longhua Hospital and Guangzhou Hospital of traditional Chinese medicine of Guangdong Province to collect the pulse wave data of human body in Shanghai and Guangzhou, and classified the different pulse conditions of different people. I am mainly responsible for the collection and processing of pulse diagnosis data. Through machine learning and deep learning algorithms, I classify and select the characteristics of the collected pulse diagnosis data, explore the relationship between human pulse wave data and different pulse phenomena in traditional Chinese medicine, and carry out classification and recognition. Further building a complete set of wearable life and health detection equipment to collect and analyze real-time data of carriers.
 
-+ Mar.2022 - May.2022 &emsp; Pulse Diagnosis of Traditional Chinese medicine Based on Neural Network and High-density Flexible Tactile Sensing Array <br/>
++ Mar.2022 - May.2022 &emsp; Research on Medical Image Data Classification and Recognition Based on Sota Deep Learning and Edge Computing <br/>
     + Chinese Academy of Sciences <br/>
     Ministry of Science and Technology of the People´s Republic of China <br/>
     Guangdong Xinhuangpu Joint Innovation Institute of Chinese Medicine <br/>

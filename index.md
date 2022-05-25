@@ -171,7 +171,9 @@
         + I use opencv combined with mediapipe to complete the movement of AI virtual box, obtain the left side of the key single of the finger through mediapipe, judge whether the finger is on the box, and constantly update the movement of the box.(You can find the demonstration in my github repository)
     + Research on Chinese Calligraphy Font Recognition Based on HOG + SVM <br/>
         + In the project, I used traditional morphological methods (erosion, expansion) for target detection and traditional machine learning methods (HOG+SVM) for multi-objective classification, respectively.(You can find the demonstration in my github repository)
-
+    + Research on Face Detection and Recognition Based on Deep Learning Algorithm <br/>
+        + In the face detection project, I use Haar algorithm to detect faces, HOG algorithm, CNN algorithm, SSD algorithm and MTCNN algorithm to detect face targets, and package them into runnable projects on the video stream <br/>
+   
 ---
 
 ## **Personal Profile**

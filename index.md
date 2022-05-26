@@ -172,7 +172,8 @@
     + Research on Chinese Calligraphy Font Recognition Based on HOG + SVM <br/>
         + In the project, I used traditional morphological methods (erosion, expansion) for target detection and traditional machine learning methods (HOG+SVM) for multi-objective classification, respectively.(You can find the demonstration in my github repository)
     + Research on Face Detection and Recognition Based on Deep Learning Algorithm <br/>
-        + In the face detection project, I use Haar algorithm to detect faces, HOG algorithm, CNN algorithm, SSD algorithm and MTCNN algorithm to detect face targets, and package them into runnable projects on the video stream <br/>
+        + In the face detection project, I use Haar algorithm to detect faces, HOG algorithm, CNN algorithm, SSD algorithm and MTCNN algorithm to detect face targets, and package them into runnable projects on the video stream. <br/>
+        + In the project, I used traditional methods such as Eigen, Fisher and LBPH to recognize the faces of people with different expressions and emotions, compared the differences in face recognition between CNN deep neural networks such as Residual Networks(ResNet) and traditional methods, and constructed an application project of face attendance.(You can find the demonstration in my github repository)<br/>
    
 ---
 

@@ -12,7 +12,7 @@
 
 + **Sep.2020 - Jul.2023 &emsp; University of Chinese Academy of Sciences** &emsp; <br/> 
     Shanghai Institute of Microsystem and Information Technology <br/> 
-    Shanghai &emsp; P.R. China &emsp; Advisor: Hen. Yang &emsp; M.E. <br/>
+    Shanghai &emsp; P.R. China &emsp; Advisor: Hen. Yang Xinxin Li&emsp; M.E. <br/>
 
 + **Sep.2016 - Jul.2020 &emsp; Xi’an Technological University** &emsp; <br/>
     School of Electronic Information Engineering &emsp; <br/>

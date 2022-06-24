@@ -111,16 +111,16 @@
   
 + Nov.2021 - Sep.2022 &emsp; Pulse Diagnosis of Traditional Chinese medicine Based on Neural Network and High-density Flexible Tactile Sensing Array <br/>
     + Chinese Academy of Sciences <br/>
-    Ministry of Science and Technology of the People´s Republic of China <br/>
     Guangdong Xinhuangpu Joint Innovation Institute of Chinese Medicine <br/>
+    Guangdong Province Traditional Chinese Medical Hospital<br/>
     Guangzhou &emsp; China &emsp; <br/>
     
     + This project belongs to the major special pilot program of the Ministry of Science and Technology of China. We designed and produced a high-density flexible tactile sensor that can collect the pulse wave data of the three parts of the human body. In cooperation, they collected the pulse wave data of the human body in Shanghai and Guangzhou, classified the different pulse conditions of different people, and conducted in-depth research on the objectification of traditional Chinese medicine through modern science and technology.In this project, I am mainly responsible for pulse diagnosis data collection and information processing of pulse wave signal characteristics. Through machine learning and deep learning algorithms, I classify and feature selection processing of collected pulse diagnosis data, and explore the relationship between human pulse wave data and traditional Chinese medicine. At the same time, on the basis of the interpretability of characteristic information, the wearable life and health detection watch equipment is further designed and produced, and the real-time pulse wave detection of the carrier is carried out. Data collection and analysis.
 
 + Mar.2022 - Jul.2022 &emsp; Research on Scene Classification and Recognition of Large-scale Medical Images Under Deep Learning <br/>
     + Chinese Academy of Sciences <br/>
-    Ministry of Science and Technology of the People´s Republic of China <br/>
     Guangdong Xinhuangpu Joint Innovation Institute of Chinese Medicine <br/>
+    Guangdong Province Traditional Chinese Medical Hospital<br/>
     Guangzhou &emsp; China &emsp; <br/>
     
     + The development of artificial intelligence technology has made it widely used in modern medical image analysis. For medical image data of different diseases, we need to establish a multi-modal large-scale deep learning model to identify different medical image data. In this project, I propose a method that integrates attention mechanism, recurrent neural network, and graph neural network to characterize different medical image data. Based on recognition and classification, a multi-dimensional digital medical image processing framework is constructed. The cutting-edge deep mutual information algorithm is used to build a medical data image matcher to identify, retrieve and classify images of different medical diseases.

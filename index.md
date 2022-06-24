@@ -10,7 +10,7 @@
 ## **Professional Preparation**
 ### Academic Degree
 
-+ **Sep.2020 - Jul.2023 &emsp; Chinese Academy of Sciences** &emsp; <br/> 
++ **Sep.2020 - Jul.2023 &emsp; University of Chinese Academy of Sciences** &emsp; <br/> 
     Shanghai Institute of Microsystem and Information Technology <br/> 
     Shanghai &emsp; P.R. China &emsp; Advisor: Hen. Yang &emsp; M.E. <br/>
 
@@ -33,7 +33,7 @@
 
 ### Master Stage
 
-+ The 8th China International College Students' 'Internet+' Innovation and Entrepreneurship Competition
++ 2022 The 8th China International College Students' 'Internet+' Innovation and Entrepreneurship Competition
     + Awards: Second Prize of University of Chinese Academy of Sciences
     + Organizer: Ministry of Education of the People´s Republic of China; Chinese Academy of Sciences
 + 2022 The 2th "Innovative Cup" Future Technology Innovation Competition
